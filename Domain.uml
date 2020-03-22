@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-371.5" y="567.75">model.UserDialog</node>
+    <node x="-371.75" y="69.0">model.Controller</node>
+    <node x="-55.25" y="562.5">model.Delivery</node>
+    <node x="-413.75" y="268.75">model.Order</node>
+    <node x="-787.5" y="582.75">model.Flower</node>
+    <node x="-343.75" y="-22.25">Main</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.8" x="247.0" y="374.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
